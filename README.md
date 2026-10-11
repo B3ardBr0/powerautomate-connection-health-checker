@@ -502,7 +502,7 @@ Created by wjmaritz.dev
 
 ## License
 
-Use freely for your Power Platform monitoring needs.
+MIT. See [LICENSE](LICENSE).
 
 ---
 
